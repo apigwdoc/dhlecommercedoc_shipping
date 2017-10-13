@@ -6,7 +6,7 @@ info:
        Description of the operation in Markdown
        
        `Může být stylovaný`
-       A tady je změna, kterou jsem udělal v apiary před Pushem do GitHubu
+       A tady je změna
 schemes: [https]
 host: host
 basePath: /api
